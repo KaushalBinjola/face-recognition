@@ -19,6 +19,3 @@ if st.sidebar.button("Submit"):
 @st.cache
 def hello():
     print("hello")
-
-
-# ankeetpujara@gmail.com
